@@ -1,0 +1,1 @@
+nuitka --windows-console-mode=disable --standalone --show-progress --main="..\Edge Protecter.py" --windows-icon-from-ico=Na.ico
